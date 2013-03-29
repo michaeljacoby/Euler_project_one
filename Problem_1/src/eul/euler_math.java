@@ -10,7 +10,7 @@ public class euler_math {
 		while(x < 1000)
 		{
 			value += isdivisible(x);
-			x++;
+			x++; 
 		}
 		System.out.println(value);
 	}
